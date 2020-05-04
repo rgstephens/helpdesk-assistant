@@ -167,6 +167,7 @@
 - cafe menu
 - show the menu
 - where can i find the menu
+- pizza time
 
 ## intent:site_map
 - site map
@@ -179,6 +180,7 @@
 - location of rht front door
 - show site map
 - can i see the campus map
+- show me the site map
 
 ## intent:site_emergency
 - emergency phone number
@@ -190,3 +192,7 @@
 - security contact
 - security guard
 - who is the site security contact
+
+## synonym:high
+- escalated
+- escalate

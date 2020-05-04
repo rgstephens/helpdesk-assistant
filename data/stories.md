@@ -23,7 +23,6 @@
 * bot_challenge
   - utter_iamabot
 
-
 ## incident form
 * open_incident OR password_reset OR problem_email
     - open_incident_form
